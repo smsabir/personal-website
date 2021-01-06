@@ -1,0 +1,140 @@
+#hello{
+    color: #253D69;
+    padding-bottom: 0px;
+}
+#name{
+    padding-top: 0px;
+    color:rgb(253, 79, 48);
+}
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 48px;
+}
+h2{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 35px;
+    color: #253D69;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    color: #253D69;
+}
+h5{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 16px;
+    color: #253D69;
+}
+p{
+    font-family: 'Dosis', sans-serif;
+    padding-bottom: 35px;;
+    font-weight: 600;
+    color: #3C434F;
+}
+body{
+    width: 100%;
+    margin: 0 auto 0;
+}
+.action-button{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 20px 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #3D5B92, #253D69);
+}
+
+.half-width{
+    width: 35%;
+    margin-top: 25px;
+    margin-left: 5%;
+    padding-left: 3%;
+    float: left;
+    
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+}
+#work{
+    background-color: #f0f0f0;
+    padding: 6% 6% 11% 10%;
+}
+#project-heading{
+    text-align: center;
+    margin-left: -9%;
+    padding-top: 0%;
+    padding-bottom: 5%;
+}
+#project-highlight{
+    color: rgb(253, 79, 48);
+}
+.third-width{
+    float: left;
+    width: 28%;
+    height: 320px;
+    margin-left: 2%;
+    background-color: white;
+    padding-bottom: 50px;
+    box-shadow: 5px 5px 20px rgb(201, 197, 197);
+    border-radius: 20px;
+}
+.third-width img{
+    width: 90%;
+    padding: 10px 15px;
+    
+}
+.third-width p{
+    padding: 3px 15px;
+}
+.third-width h3{
+    padding-left: 15px;
+}
+#bottom{
+    background-image: url("images/bg.png");
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+    padding-bottom: 5%;
+}
+.half-bottom{
+    width: 22%;
+    margin-top: 13%;
+    margin-left: 15%;
+    padding-left: 6%;
+    float: left;
+}
+.half-bottom h1{
+    color: white;
+}
+.text-bottom {
+    width: 100%;
+    text-align: center;        
+    margin: 0;
+    padding:0;
+}
+
+#chat{
+    padding-top: 17%;
+}
+
+#chat a{
+    padding: 20px 35px;
+    color: white;
+    background-image: linear-gradient(0deg, rgb(255, 134, 121), rgb(255, 92, 64));
+    text-decoration: none;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
+footer h5{
+    color: rgb(85, 85, 85);
+}
+.icon{
+    height: 35px;
+    width: 35px;
+}
